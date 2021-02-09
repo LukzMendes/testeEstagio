@@ -1,4 +1,4 @@
-# Documentação da teste técnico - .net core - Api rest
+# Documentação de teste técnico - .net core - Api rest
 
 ## Como executar o código
 
