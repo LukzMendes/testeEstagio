@@ -1,5 +1,9 @@
 <h1> Documentação de teste técnico - .net core - Api rest </h1>
 
+<h3> O Teste <h/3>
+
+De acordo com o Problema passado, desenvolver uma solução para encontrar o melhor petshop para levar os cães. O melhor petshop é aquele que oferecer os menores preços, em caso de empate, o melhor é o mais próximo do Canil.
+
 <h4> Como executar o código </h4>
 <h6> # Abra a Solution e dê run*;
 # Usando o navegador ou Postman, dê um get na url** https://localhost:44387/api/Petshop, passando os seguintes parâmetros:
