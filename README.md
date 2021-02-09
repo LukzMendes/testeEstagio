@@ -22,11 +22,14 @@
 # O projeto tem que ser desenvolvido de forma que, caso precise adicionar mais petshops, tenha que ser realizadas poucas alterações no código;
 </h6>
 
-<h4> Decisões de projeto </h4>}
-<h6> ** Observações
+<h4> Decisões de projeto </h4>
+<h6> O projeto tem que verificar qual é o petshop mais barato e/ou o mais perto, com base no dia e na quantidade de caes a serem levados para tomarem banho;</h6>
+ 
+
+<i>** Observações
 __# Infelizmente não sei fazer a publicação de uma publicação web ou web api__;
 
-__** Os parâmetros devem ser passados via URL. Exemplo: https://localhost:44387/api/Petshop?dataDoBanho=16-07-2020&caesPequenos=2&caesGrandes=3 ;__  </h6>
+__** Os parâmetros devem ser passados via URL. Exemplo: https://localhost:44387/api/Petshop?dataDoBanho=16-07-2020&caesPequenos=2&caesGrandes=3 ;__  </i>
 
-  By Lucas Mendes
-
+  <h6>By Lucas Mendes </h6>
+ 
